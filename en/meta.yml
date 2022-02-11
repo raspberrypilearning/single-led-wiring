@@ -1,4 +1,4 @@
-title: Wiring a single LED
+title: Wire a single LED
 hero_image: images/banner.png
 description: How to wire a single LED to a Raspberry Pi Pico
 version: 4
@@ -6,4 +6,4 @@ listed: false
 copyedit: false
 last_tested: "2022-02-08"
 steps:
-  - title: Wiring a single LED
+  - title: Wire a single LED

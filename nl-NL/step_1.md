@@ -1,15 +1,15 @@
 Je hebt nodig:
 
 + Een Raspberry Pi Pico
-+ Een LED in de kleur van jouw keuze
++ Een LED in de kleur naar keuze
 + Een weerstand
 + 2 x bus-bus verbindingsdraden
 
-**Note:** The LED should have a resistor attached to the **positive** (long) leg, as well as the two jumper wires.
+**Let op:** De LED zou een weerstand aangesloten moeten hebben aan de **positieve** (lange) poot, evenals de twee verbindingsdraden.
 
-The diagram below shows how to attach an LED to a Raspberry Pi Pico.
+De afbeelding hieronder toont hoe een LED aan een Raspberry Pi Pico moet worden gekoppeld.
 
-+ Attach the positive leg (the one with the resistor) to **GP13**
-+ Attach the negative leg to the closest **GND** pin
++ Bevestig de positieve poot (die met de weerstand) aan **GP13**
++ Bevestig de negatieve poot aan de dichtstbijzijnde **GND** pin
 
-![A wiring diagram for a Raspberry Pi Pico and an LED.](images/pico_led_13_bb.png)
+![Een bedradingsschema voor een Raspberry Pi Pico en een LED.](images/pico_led_13_bb.png)

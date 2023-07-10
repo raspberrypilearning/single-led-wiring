@@ -1,0 +1,10 @@
+
+title: Sluit een enkele LED aan
+hero_image: images/banner.png
+description: Hoe kun je een enkele LED aansluiten op een Raspberry Pi Pico
+version: 4
+listed: false
+copyedit: false
+last_tested: "2022-02-08"
+steps:
+  - title: Sluit een enkele LED aan

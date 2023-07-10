@@ -1,9 +1,9 @@
-You will need:
+Je hebt nodig:
 
-+ A Raspberry Pi Pico
-+ An LED in your choice of colour
-+ A resistor
-+ 2 x socket-socket jumper wires
++ Een Raspberry Pi Pico
++ Een LED in de kleur van jouw keuze
++ Een weerstand
++ 2 x bus-bus verbindingsdraden
 
 **Note:** The LED should have a resistor attached to the **positive** (long) leg, as well as the two jumper wires.
 

@@ -5,7 +5,7 @@ Je hebt nodig:
 + Een weerstand
 + 2 x bus-bus verbindingsdraden
 
-**Let op:** De LED zou een weerstand aangesloten moeten hebben aan de **positieve** (lange) poot, evenals de twee verbindingsdraden.
+**Let op:** De LED moet een weerstand aangesloten hebben aan de **positieve** (lange) poot, evenals de twee verbindingsdraden.
 
 De afbeelding hieronder toont hoe een LED aan een Raspberry Pi Pico moet worden gekoppeld.
 

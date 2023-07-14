@@ -1,10 +1,10 @@
-title: Wire a single LED
+title: Câbler une seule LED
 hero_image: images/banner.png
-description: How to wire a single LED to a Raspberry Pi Pico
+description: Comment câbler une seule LED à un Raspberry Pi Pico
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-02-08"
 steps:
   - 
-    title: Wire a single LED
+    title: Câbler une seule LED
